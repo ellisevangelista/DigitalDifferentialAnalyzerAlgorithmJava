@@ -17,4 +17,4 @@ After installing the required applications/softwares, you can now open and run t
 * **Jerome Cases** -- [casesjerome](https://github.com/casesjerome)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
